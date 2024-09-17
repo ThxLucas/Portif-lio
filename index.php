@@ -5,7 +5,7 @@ if (!isset($_GET["mensagem"])) {
 <!DOCTYPE html>
 <html lang="pt-BR" dir="ltr">
 <head>
-<title>The Xelas</title>
+<title>Thx Lucas</title>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2888368994974228"
      crossorigin="anonymous"></script>
       <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
@@ -79,7 +79,7 @@ h5{
 <!-- Header -->
 <header class="thx-container thx-blue thx-center" style="padding:128px 16px">
   <img src="imagens/the_xelas.png"  style="">
-  <h1 class="thx-margin thx-jumbo">Nosso portifólio</h1>
+  <h1 class="thx-margin thx-jumbo">Portifólio</h1>
   <p class="thx-xlarge"></p>
 
 </header>
@@ -89,9 +89,9 @@ h5{
   <div class="thx-content">
     <div class="thx-twothird">
       <h1>Sobre</h1>
-      <h5 class="thx-padding-32" style="text-decoration: justify">Nós somos um grupo voltado para o desenvolvimento e manutenção em geral nos diversos tipos de sistemas; no momento a programação para a web tem se tornado nosso maior contato com o mercado de desenvolvimento, onde atendemos uma gama muito maior de pessoas, não só da nossa região, como tambem em outros lugares. Nossos trabalhos realizados estão apresentados neste site para facilitar a demonstração do mesmo; nem todos possuem participação de todos os membros,  mas seu  valor  intelectual  continua sendo  igual aos  outros e evidencia nosso esforço e dedicação.</h5>
+      <h5 class="thx-padding-32" style="text-decoration: justify">Me chamo Lucas atuo atualmente voltado para o desenvolvimento e manutenção em geral nos diversos tipos de sistemas; no momento a programação para a web tem se tornado meu maior contato com o mercado de desenvolvimento, onde atendo uma gama muito maior de pessoas, não só da minha região, como também diversos clientes remotamente. Meus trabalhos realizados estão apresentados neste site e no GitHub para facilitar a demonstração do mesmo</h5>
 
-      <h5 class="thx-padding-32">Nosso grupo possui diversas habilidades voltadas para a área da informação, pensamos muito em nossos designs e temos todo o cuidado em nossa tomada de decisão, mantendo o devido contato e informando sempre sobre o desenvolvimento de nossos projetos, buscamos manter um padrão de qualidade imposto por nós mesmos e visamos que nossas qualidades possam ser demonstradas e as dúvidas esclarecidas ao fim desse portifólio.</h5>
+      <h5 class="thx-padding-32">Possuo diversas habilidades voltadas para a área da informação, desenvolvo muito meus designs e tenho todo o cuidado em minhas tomadas de decisões, mantendo o devido contato e informando sempre sobre o desenvolvimento dos projetos, busco manter um padrão de qualidade sempre bem elevado e visando que todas as minhas qualidades possam ser demonstradas e as dúvidas esclarecidas ao fim desse portifólio.</h5>
       
     </div>
 
@@ -119,7 +119,7 @@ h5{
 
 <p>Feito por</a></p>
  <address>
-         <strong>The Xelas, Grp.</strong><br /> Uruaçu/Campinorte - GO, Brasil<br />thexelasalss@gmail.com<br /> 
+         <strong>Thx, Lucas</strong><br /> Niquelândia - GO, Brasil<br />lucasnalve3000@gmail.com<br /> 
       </address>
 </div>
 
